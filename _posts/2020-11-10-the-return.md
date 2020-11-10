@@ -1,0 +1,20 @@
+---
+layout: post
+title: The Return
+
+category: meta socionics
+---
+
+The typology community is toxic. This reflects the limiting, fanatical nature of some of the theory that underlies typology. This is why I left.
+
+What I hadn't yet realized is that those aspects can simply be removed, and what remains is more valuable and more unambiguously true than any model that has preceded it.
+
+This model is intended to solve some of the deepest problems in socionics:
+
+* the endless disagreement and indecision concerning the types of many celebrities and members of the community
+* the dogmatism and tribalistic infighting between adherents of various models
+* the high barrier of entry to being typed&mdash;I have discovered tests that are truly effective
+* the confirmation bias required to accept one's type with certainty
+* the subjective nature of socionics, where often people use the same terminology to refer to vastly different concepts
+
+I will be writing articles to document the development of this model. I will also be writing on other topics I explored during my hiatus, specifically in the sphere of philosophy, psychology and self-improvement.
