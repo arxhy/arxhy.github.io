@@ -34,8 +34,8 @@ plugins:
 
 feed:
   categories:
-    socionics
-    other
+    - socionics
+    - other
 
 # Exclude from processing.
 # The following items will not be processed, by default.
