@@ -2,9 +2,7 @@
 layout: post
 title: The Return
 
-categories:
-  - meta
-  - socionics
+category: socionics
 ---
 
 The typology community is toxic. This reflects the limiting, fanatical nature of some of the theory that underlies typology. This is why I left.
