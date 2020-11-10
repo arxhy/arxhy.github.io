@@ -18,3 +18,10 @@ This model is intended to solve some of the deepest problems in socionics:
 * the subjective nature of socionics, where often people use the same terminology to refer to vastly different concepts
 
 I will be writing articles to document the development of this model. I will also be writing on other topics I explored during my hiatus, specifically in the sphere of philosophy, psychology and self-improvement.
+
+If you want to be reminded when I release an article, you have a few options:
+
+* subscribe to the [socionics RSS feed](/feed/socionics.xml), [non-socionics RSS feed](/feed/other.xml) or both
+* join the [Discord](https://discord.gg/dyBfJvA), where you can give yourself an Article Ping role
+* follow 7thcircle's [Twitter](https://twitter.com/7thcrcl)
+* check back here every once in a while, I guess?
