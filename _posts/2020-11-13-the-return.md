@@ -21,7 +21,7 @@ I will be writing articles to document the development of this model. I will als
 
 If you want to be reminded when I release an article, you have a few options:
 
-* subscribe to the [socionics RSS feed](/feed/socionics.xml), [non-socionics RSS feed](/feed/other.xml) or both
+* subscribe to the [socionics RSS feed](/feed/socionics.xml), [non-socionics RSS feed](/feed/other.xml) or [both](/feed.xml)
 * join the [Discord](https://discord.gg/dyBfJvA), where you can give yourself an Article Ping role
 * follow zeroth's [Twitter](https://twitter.com/7thcrcl)
 * check back here every once in a while, I guess?
