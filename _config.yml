@@ -28,7 +28,7 @@ twitter_username: 7thcrcl
 github_username:  arxhy
 
 # Build settings
-theme: minima
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
 
@@ -36,6 +36,7 @@ feed:
   categories:
     - socionics
     - other
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
