@@ -1,1 +1,1 @@
-This is the GitHub repo for the 7thcircle website. Why are you here, anyway?
+This is the GitHub repo for the zeroth website. Why are you here, anyway?
