@@ -38,6 +38,7 @@ feed:
     - other
 paginate: 5
 
+google_analytics: G-J3VJLT9MRJ
 permalink: /:day:month:year/
 
 # Exclude from processing.
