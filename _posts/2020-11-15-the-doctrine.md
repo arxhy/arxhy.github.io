@@ -2,7 +2,7 @@
 layout: post
 title: The Doctrine
 
-category: socionics
+category: other
 permalink: /1/
 ---
 
